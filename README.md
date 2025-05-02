@@ -4,19 +4,6 @@ An AI-powered full-stack application that classifies brain tumors from MRI image
 
 ---
 
-## 📸 Visual Workflow
-# Interface for user to upload MRI 
-![3](https://github.com/user-attachments/assets/42017a92-e0d3-45ca-9683-f016b4f61ec5)
-
-![2](https://github.com/user-attachments/assets/4a8d65d8-ae73-4d03-9ced-e54d89113580)
-
-# Final Output
-![1](https://github.com/user-attachments/assets/9f356d6c-fb47-4b96-a78c-bfbc4ac242b5)
-
-# Visual Result(True vs Predicted)
-![WhatsApp Image 2025-04-29 at 13 44 11_575de695](https://github.com/user-attachments/assets/3201fcdb-339c-4f97-9243-fe17391bbce5) ![WhatsApp Image 2025-04-29 at 13 37 46_fed50c3d](https://github.com/user-attachments/assets/aa963064-e4bb-4371-871d-9214119cf9ee)
----
-
 ## 🚀 Features
 
 - 🧠 **Brain Tumor Classification** using Vision Transformers (ViT) + Knowledge-Aware Networks (KAN)
@@ -53,7 +40,48 @@ npm install
 npm run dev
 ```
 ---
+# 🧪 Sample Usage
+Upload an MRI scan.
 
+Click Predict to classify tumor type.
 
+Click Generate Caption for an auto-generated report.
+
+Explore Grad-CAM visualization to interpret the decision.
+--- 
+
+## 📸 Visual Workflow
+# Interface for user to upload MRI 
+![3](https://github.com/user-attachments/assets/42017a92-e0d3-45ca-9683-f016b4f61ec5)
+
+![2](https://github.com/user-attachments/assets/4a8d65d8-ae73-4d03-9ced-e54d89113580)
+
+# Final Output
+![1](https://github.com/user-attachments/assets/9f356d6c-fb47-4b96-a78c-bfbc4ac242b5)
+
+# Visual Result(True vs Predicted)
+![WhatsApp Image 2025-04-29 at 13 44 11_575de695](https://github.com/user-attachments/assets/3201fcdb-339c-4f97-9243-fe17391bbce5) ![WhatsApp Image 2025-04-29 at 13 37 46_fed50c3d](https://github.com/user-attachments/assets/aa963064-e4bb-4371-871d-9214119cf9ee)
+---
+
+# 👥 Project Team
+# 👩‍🏫 Mentor:
+Dr. Kamakshi Rautela
+
+# 👨‍💻 Team Members:
+
+Aryan Chaudhary
+
+Ishaan Narayan
+
+Riya Gupta
+
+Ronit Singh
+
+# 📬 Contact & Links
+📧 Email: aryanshako@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/aryan-chaudhary-4b7741281/ 
+
+💻 GitHub: https://github.com/AryanChaudhary123
 
 
