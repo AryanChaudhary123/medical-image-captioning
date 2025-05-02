@@ -5,11 +5,13 @@ An AI-powered full-stack application that classifies brain tumors from MRI image
 ---
 
 ## 📸 Visual Workflow
-# UI Interface
-![1](https://github.com/user-attachments/assets/edfb901a-be0e-413d-a9ba-87f965575c91)
+# Interface for user to upload MRI 
+![3](https://github.com/user-attachments/assets/42017a92-e0d3-45ca-9683-f016b4f61ec5)
 
 ![2](https://github.com/user-attachments/assets/4a8d65d8-ae73-4d03-9ced-e54d89113580)
 
-# Interface for user to upload MRI 
-![3](https://github.com/user-attachments/assets/5f4828c3-23d9-43d7-bc7d-b7556a46bcb0)
+# Final Output
+![1](https://github.com/user-attachments/assets/9f356d6c-fb47-4b96-a78c-bfbc4ac242b5)
+
+
 
