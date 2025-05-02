@@ -15,7 +15,41 @@ An AI-powered full-stack application that classifies brain tumors from MRI image
 
 # Visual Result(True vs Predicted)
 ![WhatsApp Image 2025-04-29 at 13 44 11_575de695](https://github.com/user-attachments/assets/3201fcdb-339c-4f97-9243-fe17391bbce5) ![WhatsApp Image 2025-04-29 at 13 37 46_fed50c3d](https://github.com/user-attachments/assets/aa963064-e4bb-4371-871d-9214119cf9ee)
+---
 
+## 🚀 Features
+
+- 🧠 **Brain Tumor Classification** using Vision Transformers (ViT) + Knowledge-Aware Networks (KAN)
+- 📝 **Automatic Medical Caption Generation** using Template Based Caption Generation method
+- 🔍 **Visual Interpretability** with Grad-CAM for transparent predictions
+- 🖼️ **Real-time Frontend** built with React, TypeScript, and Tailwind CSS
+- 🔗 **Integrated Backend** using Flask and PyTorch
+
+---
+
+## 🛠️ Tech Stack
+
+| Layer         | Tools                                      |
+|---------------|---------------------------------------------|
+| **Model**         | PyTorch, Vision Transformer (ViT), KAN     |
+| **Captioning**    | Template Based Caption Generation    |
+| **Explainability**| Grad-CAM                                   |
+| **Backend**       | Flask, Torchvision, Pillow, Joblib         |
+| **Frontend**      | React, TypeScript, Tailwind CSS, Dropzone  |
+| **Storage**       | LocalStorage, `.pth`, `.pkl`               |
+
+---
+
+## 📁 Project Structure
+
+Medical-Image-Captioning/
+├── frontend/ # React app for user interface
+├── backend/ # Flask app with ML model and APIs
+├── outputs/ # Screenshots and Grad-CAM visual outputs
+├── model.pth # Trained ViT model
+├── label_encoder.pkl # Encoded class mappings
+├── app2.py # Main Flask API script
+├── README.md # You're here!
 
 
 
