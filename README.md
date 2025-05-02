@@ -49,19 +49,10 @@ An AI-powered full-stack application that classifies brain tumors from MRI image
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/medical-image-captioning.git
-cd medical-image-captioning
+git clone https://github.com/AryanChaudhary123/medical-image-captioning/tree/main
 
-### 2. Backend Setup (Python + Flask)
-cd backend
-pip install -r requirements.txt
-python app2.py
 
-3. Frontend Setup (React + Tailwind)
-cd frontend
-npm install
-npm run dev
-
+---
 
 
 
