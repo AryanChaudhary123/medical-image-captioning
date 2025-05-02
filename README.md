@@ -13,5 +13,9 @@ An AI-powered full-stack application that classifies brain tumors from MRI image
 # Final Output
 ![1](https://github.com/user-attachments/assets/9f356d6c-fb47-4b96-a78c-bfbc4ac242b5)
 
+# Visual Result(True vs Predicted)
+![WhatsApp Image 2025-04-29 at 13 44 11_575de695](https://github.com/user-attachments/assets/3201fcdb-339c-4f97-9243-fe17391bbce5) ![WhatsApp Image 2025-04-29 at 13 37 46_fed50c3d](https://github.com/user-attachments/assets/aa963064-e4bb-4371-871d-9214119cf9ee)
+
+
 
 
