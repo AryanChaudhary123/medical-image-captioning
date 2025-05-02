@@ -41,15 +41,19 @@ An AI-powered full-stack application that classifies brain tumors from MRI image
 ---
 
 ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/d54af0f7-2050-4759-8afd-3ab2d2efcea3)
 
-Medical-Image-Captioning/
-├── frontend/ # React app for user interface
-├── backend/ # Flask app with ML model and APIs
-├── outputs/ # Screenshots and Grad-CAM visual outputs
-├── model.pth # Trained ViT model
-├── label_encoder.pkl # Encoded class mappings
-├── app2.py # Main Flask API script
-├── README.md # You're here!
+---
+
+## ⚙️ How to Run
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/medical-image-captioning.git
+cd medical-image-captioning
+
+
+
 
 
 
